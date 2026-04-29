@@ -407,10 +407,7 @@ python import.py --send --port COM3 --baud 115200
 ## Authors
 
 **Shubham Gupta** — RTL Design, FPGA Implementation, System Architecture
-- [LinkedIn](https://linkedin.com/in/shubhamgupta)
-- [GitHub](https://github.com/yourusername)
-
-*Semixthon 2026 — Delhi Technological University*
+ Delhi Technological University*
 
 ---
 
